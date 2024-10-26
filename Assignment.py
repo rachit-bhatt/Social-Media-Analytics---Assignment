@@ -16,7 +16,7 @@ import os
 width = 2560
 height = 1600
 figure_size = (25.6, 16)
-df = pd.read_csv('Dataset/vdoLinks_deploy.csv')
+df = pd.read_csv('Dataset/news.csv')
 
 #endregion
 
