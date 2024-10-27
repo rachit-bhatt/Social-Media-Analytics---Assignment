@@ -1,4 +1,15 @@
 pandas
+json
+time
+concurrent
 google-api-python-client
 vaderSentiment
+textblob
+nltk
+sklearn
+re
+plotly
+wordcloud
 matplotlib
+requests
+configparser
